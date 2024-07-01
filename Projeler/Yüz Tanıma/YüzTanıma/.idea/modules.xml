@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EigenFace/.idea/EigenFace.iml" filepath="$PROJECT_DIR$/../EigenFace/.idea/EigenFace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FaceRec/.idea/FaceRec.iml" filepath="$PROJECT_DIR$/../FaceRec/.idea/FaceRec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sunum.iml" filepath="$PROJECT_DIR$/.idea/Sunum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deepface/.idea/deepface.iml" filepath="$PROJECT_DIR$/../deepface/.idea/deepface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dictionary/.idea/dictionary.iml" filepath="$PROJECT_DIR$/../dictionary/.idea/dictionary.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/face_recognition/.idea/face_recognition.iml" filepath="$USER_HOME$/Desktop/face_recognition/.idea/face_recognition.iml" />
+    </modules>
+  </component>
+</project>
